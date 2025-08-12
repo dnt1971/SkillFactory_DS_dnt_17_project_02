@@ -27,7 +27,7 @@
 
 ### Краткая информация о данных
 Все необходимые таблицы находятся в схеме public базы данных project_sql.
-Структура данных приведена [здесь](https://github.com/dnt1971/SkillFactory_DS_dnt_17_project_02/blob/master/Структура_данных.ipynb).
+Структура данных приведена [здесь](https://github.com/dnt1971/SkillFactory_DS_dnt_17_project_02/blob/master/Структура_данных.ipynb). Версии библиотек [тут](https://github.com/dnt1971/SkillFactory_DS_dnt_17_project_02/blob/master/ver.txt).
 
 
 :arrow_up:[к оглавлению](#оглавление)
